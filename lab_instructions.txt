@@ -9,11 +9,11 @@ For this hw you’ll work on the sample Comp 484  site to create page navigation
 2.	Link to external sites
 			a.	Applies to: links.htm 
 			b.	In the footer, locate the first reference to CSUN
-			c. Create a link that links that text to the actual csun.edu site.
-			d. Modify the link so that the site opens in a new tab or window
-			e. Remember to add descriptive text for the link
-			f. Browse to Twitter and find the profile page for @csunorthridge, copy this URL
-			g. Back in the footer, add a link to new text that says "follow us on Twitter" that links to the @csunorthridge profile
+			c. Create a link that links that text to the actual csun.edu site. X
+			d. Modify the link so that the site opens in a new tab or window X
+			e. Remember to add descriptive text for the link X
+			f. Browse to Twitter and find the profile page for @csunorthridge, copy this URL X
+			g. Back in the footer, add a link to new text that says "follow us on Twitter" that links to the @csunorthridge profile X
 
 3.	Link to internal sections
 			a.	Applies to: reference.htm, syntax.htm
