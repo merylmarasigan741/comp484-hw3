@@ -2,7 +2,7 @@ Creating Links
 
 For this hw you’ll work on the sample Comp 484  site to create page navigation, link to external sites, and use fragment identifiers to link to sections within a site.
 
-1.	Build page navigation
+1.	Build page navigation X
 			a.	Applies to: all pages
 			b.	Using document-relative links, enhance the list at the top of the document so that it links to the appropriate pages in the reference site. Be sure to add meaningful descriptions to each link.
 
