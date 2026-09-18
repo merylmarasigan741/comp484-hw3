@@ -18,7 +18,7 @@ For this hw you’ll work on the sample Comp 484  site to create page navigation
 3.	Link to internal sections
 			a.	Applies to: reference.htm, syntax.htm
 			b.	In the reference.htm page, find the text in the first paragraph that refers to the table of named character entities
-			c. Create a link around that text that jumps to the table at the bottom of the page. Keep in mind that you'll need to modify the table as well to make this work.
+			c. Create a link around that text that jumps to the table at the bottom of the page. Keep in mind that you'll need to modify the table as well to make this work.X
 			d. Open the syntax.htm page. 
 			e. At the bottom of the page, locate the text in the last paragraph that mentions the table of named character entities on the reference page.
-			f. Create a link around that text that navigates to the reference page and jumps to that specific section.
+			f. Create a link around that text that navigates to the reference page and jumps to that specific section. X
