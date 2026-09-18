@@ -1,1 +1,1 @@
-https://github.com/merylmarasigan741/comp484-hw3.git
+https://merylmarasigan741.github.io/comp484-hw3/
